@@ -1,6 +1,7 @@
 # CMPS 3500 - Class Project
+# GROUP 8
 #
-# GROUP MEMBERS:
+# MEMBERS:
 # David Casas
 # Jonathan Soto
 # Michaelted Acosta
